@@ -1,0 +1,190 @@
+{
+  "movies": [
+    {
+      "image": "cat.png",
+      "title": "Мульт в кино. Выпуск №103. Некогда грустить!",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus optio perspiciatis quisquam!",
+      "id": "002"
+    },
+    {
+      "image": "batman.png",
+      "title": "Новый Бэтмен",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque maiores optio praesentium, ut!",
+      "id": "001"
+    },
+    {
+      "image": "hollywood.png",
+      "title": "Однажды... в Голливуде",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, ipsum, obcaecati. Numquam?",
+      "id": "003"
+    },
+    {
+      "image": "stripgirls.png",
+      "title": "Стриптизёрши",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus in maxime recusandae!",
+      "id": "004"
+    }
+  ],
+  "channels": [
+    {
+      "image": "first.png",
+      "title": "Первый канал",
+      "tvProgram": [
+        {
+          "time": "13:00",
+          "program": "Новости (с субтитрами)",
+          "onAir": true
+        },
+        {
+          "time": "14:00",
+          "program": "Давай поженимся"
+        },
+        {
+          "time": "15:00",
+          "program": "Другие новости"
+        }
+      ],
+      "id": "102"
+    },
+    {
+      "image": "2x2.png",
+      "title": "2x2",
+      "tvProgram": [
+        {
+          "time": "13:00",
+          "program": "МУЛЬТ ТВ. Сезон 4, 7 серия",
+          "onAir": true
+        },
+        {
+          "time": "14:00",
+          "program": "ПОДОЗРИТЕЛЬНАЯ СОВА. Сезон 7, 7 серия"
+        },
+        {
+          "time": "15:00",
+          "program": "БУРДАШЕВ. Сезон 1, 20 серия"
+        }
+      ],
+      "id": "101"
+    },
+    {
+      "image": "rbk.png",
+      "title": "РБК",
+      "tvProgram": [
+        {
+          "time": "13:00",
+          "program": "ДЕНЬ. Горючая смесь: как бороться с суррогатом на АЗС",
+          "onAir": true
+        },
+        {
+          "time": "14:00",
+          "program": "ДЕНЬ. Главные темы"
+        },
+        {
+          "time": "15:00",
+          "program": "Главные новости"
+        }
+      ],
+      "id": "103"
+    },
+    {
+      "image": "amedia-premium.png",
+      "title": "AMEDIA PREMIUM",
+      "tvProgram": [
+        {
+          "time": "13:00",
+          "program": "Клиент всегда мёртв",
+          "onAir": true
+        },
+        {
+          "time": "14:00",
+          "program": "Голодные игры: Сойка-пересмешница. Часть I"
+        },
+        {
+          "time": "15:00",
+          "program": "Секс в большом городе"
+        }
+      ],
+      "id": "104"
+    },
+    {
+      "image": "first.png",
+      "title": "Первый канал",
+      "tvProgram": [
+        {
+          "time": "13:00",
+          "program": "Новости (с субтитрами)",
+          "onAir": true
+        },
+        {
+          "time": "14:00",
+          "program": "Давай поженимся"
+        },
+        {
+          "time": "15:00",
+          "program": "Другие новости"
+        }
+      ],
+      "id": "108"
+    },
+    {
+      "image": "2x2.png",
+      "title": "2x2",
+      "tvProgram": [
+        {
+          "time": "13:00",
+          "program": "МУЛЬТ ТВ. Сезон 4, 7 серия",
+          "onAir": true
+        },
+        {
+          "time": "14:00",
+          "program": "ПОДОЗРИТЕЛЬНАЯ СОВА. Сезон 7, 7 серия"
+        },
+        {
+          "time": "15:00",
+          "program": "БУРДАШЕВ. Сезон 1, 20 серия"
+        }
+      ],
+      "id": "107"
+    },
+    {
+      "image": "rbk.png",
+      "title": "РБК",
+      "tvProgram": [
+        {
+          "time": "13:00",
+          "program": "ДЕНЬ. Горючая смесь: как бороться с суррогатом на АЗС",
+          "onAir": true
+        },
+        {
+          "time": "14:00",
+          "program": "ДЕНЬ. Главные темы"
+        },
+        {
+          "time": "15:00",
+          "program": "Главные новости"
+        }
+      ],
+      "id": "106"
+    },
+    {
+      "image": "amedia-premium.png",
+      "title": "AMEDIA PREMIUM",
+      "tvProgram": [
+        {
+          "time": "13:00",
+          "program": "Клиент всегда мёртв",
+          "onAir": true
+        },
+        {
+          "time": "14:00",
+          "program": "Голодные игры: Сойка-пересмешница. Часть I"
+        },
+        {
+          "time": "15:00",
+          "program": "Секс в большом городе"
+        }
+      ],
+      "id": "105"
+    }
+  ]
+}
